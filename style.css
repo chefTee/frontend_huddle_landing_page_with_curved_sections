@@ -299,11 +299,11 @@ footer::before{
 }
 .newsletter-section .input-section .inputbox{
     width: max-content;
-    padding: 5px 3rem;
+    padding: 5px 0rem;
     border-radius: 5px;
     border: none;
     background-color: #fff;
-    margin-right: 10%;
+    margin-right: 5%;
 }
 .newsletter-section .input-section button{
     color: #fff;
@@ -419,7 +419,7 @@ footer::before{
     }
     .newsletter-section .input-section .inputbox{
         width: 100%;
-        padding: 5px 5rem;
+        padding: 5px 0rem;
         margin-right: 5%;
     }
     .newsletter-section .input-section button{
